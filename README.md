@@ -3,3 +3,4 @@ Large-Scale Data Mining: Models and Algorithms
 
 Project 1: Classification Analysis on Textual Data  
 Project 2: Text Clustering
+Project 3: Collaborative Filtering
