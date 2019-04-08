@@ -4,4 +4,5 @@ Large-Scale Data Mining: Models and Algorithms
 Project 1: Classification Analysis on Textual Data  
 Project 2: Text Clustering  
 Project 3: Collaborative Filtering  
-Project 4: Regression Analysis
+Project 4: Regression Analysis  
+Project 5: Application - Twitter data
