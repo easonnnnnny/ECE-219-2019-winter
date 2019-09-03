@@ -2,11 +2,13 @@
 Large-Scale Data Mining: Models and Algorithms
 
 Project 1: Classification Analysis on Textual Data  
+Predicted the topic of the news data using classification methods.    
   
 Project 2: Text Clustering  
   
 Project 3: Collaborative Filtering  
-Utilized different collaborative filtering methods (eg. KNN, NNMF) to prdict the ratings of the movies in the MovieLens dataset and evalualte their performance using ROC curve.  
+Utilized different collaborative filtering methods to prdict the ratings of the movies in the MovieLens dataset and evalualte their performance using ROC curve.  
+- Collaborative filtering methods: KNN, NNMF, Matrix factorization with bias, Naive.  
   
 Project 4: Regression Analysis  
   
